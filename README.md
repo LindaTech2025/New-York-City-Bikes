@@ -1,5 +1,5 @@
-# 🚲NY Citi Bike Rental
-This project was created as part of a short course completed with 'The Career Foundry'. 
+# 🚲NY Citi Bike 
+This project was created as part of a short course completed with 'Career Foundry'. 
 
 The study looks primarily at the use of rental bikes stationed across various locations in New York City by a company called Citi Bike. Citi Bike hosts one of the largest bike share programmes in the United States. It was designed to facilitate quick and affordable trips in and across the City. The service provides 20,000 bikes in over 1,300 pick up locations. Users are able to use this service via an app which allows them to pick up a bike at one of the designated locations and deposit the bike at a nearby location at the end of their journey.
 
