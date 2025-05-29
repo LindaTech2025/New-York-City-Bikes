@@ -22,6 +22,8 @@ Citi Bike like most companies and organisations is looking to upgrade its busine
 
 4. How does bike rental vary across the two user groups on different days of the week?
 
+5. Does user age impact the average bike trip duration?
+
 
 # Problems Solved:
 <li>Which locations should have the most bike installations?
